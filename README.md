@@ -25,7 +25,7 @@ Um aplicativo de filmes desenvolvido com React, Vite e Redux. Os usuários podem
    npm run dev
    
 4. Acesse a aplicação:
-   Abra seu navegador e acesse `http://localhost:3000`.
+   Abra seu navegador e acesse `http://localhost:5173`.
 
 ### API
 A aplicação frontend se conecta à API backend em `https://api-movies-1-uede.onrender.com/api/movies`. Assegure-se de que o server esteja em execução antes de usar o frontend.
