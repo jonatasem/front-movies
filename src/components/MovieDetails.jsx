@@ -44,7 +44,6 @@ const MovieDetails = () => {
                 <p className='descript-details'>{selectedMovie.description}</p>
             </article>
             <button className='btn-voltar' onClick={() => dispatch(clearSelectedMovie())}>Voltar</button>
-            <Footer />
         </section>
     );
 };
