@@ -1,0 +1,33 @@
+.footer {
+    background-color: #282c34;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+
+    .footer-content {
+        max-width: 800px;
+        margin: 0 auto;
+
+        a {
+            color: #61dafb;
+            text-decoration: none;
+            margin: 0 10px;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+    .footer-content p:last-child{
+        margin-top: 1rem;
+    }
+}
+
+@media (max-width:500px) {
+    .footer {
+        .footer-content {
+            max-width: 90%;
+            margin: 0 auto;
+        }
+    }
+}

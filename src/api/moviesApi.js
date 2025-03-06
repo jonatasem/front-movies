@@ -1,4 +1,4 @@
-const API_URL = 'https://api-movies-1-uede.onrender.com/api/movies';
+const API_URL = 'https://api-movies-tt99.onrender.com/api/movies';
 
    export const fetchMovies = async () => {
        try {

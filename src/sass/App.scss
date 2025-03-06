@@ -1,0 +1,17 @@
+
+.container-app {
+        background-image: linear-gradient(to bottom ,black, black ,#051937, #004976, #007f9f, #00b7a1, #007f9f, #007f9f);
+        position: relative;
+}
+
+.notification {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    right: 10px;
+}
