@@ -1,4 +1,7 @@
 # Front Movies
+
+![Banner do Projeto](./src/assets/img/front-movies.png)
+
 Um aplicativo de filmes desenvolvido com React, Vite e Redux. Os usuários podem visualizar uma lista de filmes, curtir filmes, ver detalhes de cada filme e acessar uma lista dos filmes que curtiram.
 
 ## Funcionalidades
